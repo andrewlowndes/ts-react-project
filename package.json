@@ -1,7 +1,7 @@
 {
   "name": "ts-react-project",
   "version": "1.0.0",
-  "description": "A pipeline for building react-based applications in typescript",
+  "description": "A pipeline for building reactjs-based applications in typescript",
   "private": true,
   "scripts": {
     "prepare-env": "ts-node ./scripts/prepare-env",
@@ -18,6 +18,7 @@
     "@types/enzyme": "^3.1.10",
     "@types/enzyme-adapter-react-16": "^1.0.2",
     "@types/jasmine": "^2.8.8",
+    "@types/node": "^10.3.2",
     "@types/react": "^16.3.17",
     "@types/react-dom": "^16.0.6",
     "concurrently": "^3.5.1",
